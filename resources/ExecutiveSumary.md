@@ -77,8 +77,8 @@ The following components are used in your deployment:
   
    
 , your Azure consumption is split across the following categories:  
-![Cloudockit](../assets/E703399AE3E64855AEE57C7CA5790946.png)   
+![Cloudockit](../assets/C997FCBED41644409F638DA0FEFF6FEE.png)   
 , your Azure consumption has the following trend:  
-![Cloudockit](../assets/2D48A794E6BC439F909C93EC11D9DF85.png)   
+![Cloudockit](../assets/908C3A0404344064BC054DDF4477E50C.png)   
 , the components that are the most expensive are the following:  
-![Cloudockit](../assets/C84867ECA68D419A828AD9218010D64B.png)
+![Cloudockit](../assets/9C6D1F3B65C149D29A15511E05F6CE42.png)

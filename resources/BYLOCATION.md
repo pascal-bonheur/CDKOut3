@@ -7,7 +7,7 @@ Here are all the components by Locations:
 
 | Name |   |
 | --- | --- |
-| Nb Resources | 186  |
+| Nb Resources | 135  |
 
  
 
@@ -99,35 +99,18 @@ Here are all the components by Locations:
 | [testgem](testgem-395597712.md)  | westus  |
 | [UmbracoCMS-Group](UmbracoCMS-Group--2134102720.md)  | eastus  |
 | [vmloadbalacanced](vmloadbalacanced--926519262.md)  | eastus  |
-| [adkauto275ddf79b2404](adkauto275ddf79b2404--2087894945.md)  | eastus2  |
-| [adkg2tautodiag571](adkg2tautodiag571-1521789995.md)  | eastus2  |
-| [adkg2tautodisks437](adkg2tautodisks437--1253082899.md)  | eastus2  |
-| [adkjenkinstestdcacheasr](adkjenkinstestdcacheasr--885733424.md)  | eastus  |
-| [adkjenkinstestdiag235](adkjenkinstestdiag235-508193275.md)  | eastus  |
-| [adkjenkinstestdisks186](adkjenkinstestdisks186-34180381.md)  | eastus  |
-| [adkjenkinstestdisks1asr](adkjenkinstestdisks1asr-1218776957.md)  | northcentralus  |
-| [adkmanageddiskdiag929](adkmanageddiskdiag929--2123057527.md)  | centralus  |
-| [adkmanageddiskdisks421](adkmanageddiskdisks421-42177862.md)  | centralus  |
 | [amytestdevlab18](amytestdevlab18--1485835690.md)  | canadaeast  |
-| [azuredockitwith8485](azuredockitwith8485--631483201.md)  | eastus  |
 | [azurefunctions7f9eeced](azurefunctions7f9eeced--1964590876.md)  | eastus  |
 | [concertodev9031](concertodev9031--413511514.md)  | eastus  |
-| [csg275ddf79b240x44e7x991](csg275ddf79b240x44e7x991-1101416001.md)  | centralindia  |
 | [dmytestdevlab8961](dmytestdevlab8961-816059369.md)  | canadaeast  |
 | [dpmytestdevlab1239](dpmytestdevlab1239--1895891503.md)  | canadaeast  |
 | [fneew4xul6de6concertossa](fneew4xul6de6concertossa--371654605.md)  | eastus  |
 | [function3fa45243994d](function3fa45243994d--50978313.md)  | eastus  |
-| [functionapp2018052312211](functionapp2018052312211--652318646.md)  | centralus  |
 | [jzjab36qtjjlcconcertossa](jzjab36qtjjlcconcertossa-807745300.md)  | eastus  |
-| [mngstoreage435](mngstoreage435-52950488.md)  | eastus  |
 | [n4534l6tlqfzqconcertossa](n4534l6tlqfzqconcertossa-143327527.md)  | eastus  |
-| [sampletestfuncta6bf](sampletestfuncta6bf--648825470.md)  | centralus  |
 | [sp2013exfo](sp2013exfo--940221709.md)  | eastus  |
-| [storagearm](storagearm--1722233118.md)  | eastus  |
 | [storageother](storageother-1035067366.md)  | southcentralus  |
-| [testdesjardins](testdesjardins--487049915.md)  | canadaeast  |
 | [ve6xexlplnzhgconcertossa](ve6xexlplnzhgconcertossa-2104592211.md)  | eastus  |
-| [vmloadbalstore](vmloadbalstore--1629564294.md)  | eastus  |
 | [wk6wtgdkodm2yconcertosdi](wk6wtgdkodm2yconcertosdi--1539242641.md)  | eastus  |
 | [wk6wtgdkodm2yconcertossa](wk6wtgdkodm2yconcertossa--1408398462.md)  | eastus  |
 | [adkconcertoubuntu](adkconcertoubuntu-909997291.md)  | centralus  |
@@ -142,40 +125,6 @@ Here are all the components by Locations:
 | [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  |
 | [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  |
 | [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  |
-| [adkg2tauto-vnet](adkg2tauto-vnet--1133515761.md)  | eastus2  |
-| [adkjenkinstest-vnet](adkjenkinstest-vnet-1848450289.md)  | eastus  |
-| [adkmanageddisk-vnet](adkmanageddisk-vnet-337423216.md)  | centralus  |
-| [adksiterecovery-vnet](adksiterecovery-vnet--1834270028.md)  | eastus  |
-| [adksiterecovery-vnet-asr](adksiterecovery-vnet-asr-651556908.md)  | northcentralus  |
-| [CAEVNetTemplate](CAEVNetTemplate--836473530.md)  | canadaeast  |
-| [ConcertoDev](ConcertoDev-419358699.md)  | eastus  |
-| [concertosvnet](concertosvnet-1359435699.md)  | eastus  |
-| [Dtlmytestdevlab](Dtlmytestdevlab-1261641920.md)  | canadaeast  |
-| [epdmCirque](epdmCirque--1311499795.md)  | westus  |
-| [Gemini-EUS-Prod-Vnet](Gemini-EUS-Prod-Vnet--1865841465.md)  | eastus  |
-| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
-| [myVNET](myVNET-1387379654.md)  | eastus  |
-| [sp2013RG](sp2013RG-505270689.md)  | eastus  |
-| [thevnetwithroute](thevnetwithroute--92621775.md)  | eastus2  |
-| [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  | eastus  |
-| [reroutetonva](reroutetonva--747290517.md)  | eastus2  |
-| [routetable](routetable--496314456.md)  | canadaeast  |
-| [spRouteTable](spRouteTable--2085721850.md)  | eastus  |
-| [adkconcertoubuntu-ip](adkconcertoubuntu-ip-1318484615.md)  | centralus  |
-| [adkg2tauto-ip](adkg2tauto-ip-1444138533.md)  | eastus2  |
-| [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
-| [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
-| [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
-| [armVM](armVM--1251798913.md)  | westus  |
-| [armVM](armVM-634205035.md)  | eastus  |
-| [autopublicip](autopublicip-22711943.md)  | eastus2  |
-| [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
-| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
-| [ip01](ip01-1378229347.md)  | eastus  |
-| [myPip](myPip-1564921843.md)  | eastus2  |
-| [myPublicIP](myPublicIP--1622930058.md)  | eastus  |
-| [sp2013](sp2013-574960490.md)  | eastus  |
-| [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  |
 | [default](default-1583791024.md)  |   |
 | [default](default--39953027.md)  |   |
 | [default](default-1130786707.md)  |   |
@@ -199,5 +148,133 @@ Here are all the components by Locations:
 | [Subnet-1](Subnet-1--606941652.md)  |   |
 | [default](default-100250344.md)  |   |
 | [default](default--286296397.md)  |   |
+## canadaeast
+
+
+| Name | canadaeast  |
+| --- | --- |
+| Nb Resources | 4  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [testdesjardins](testdesjardins--487049915.md)  | canadaeast  |
+| [CAEVNetTemplate](CAEVNetTemplate--836473530.md)  | canadaeast  |
+| [Dtlmytestdevlab](Dtlmytestdevlab-1261641920.md)  | canadaeast  |
+| [routetable](routetable--496314456.md)  | canadaeast  |
+## centralindia
+
+
+| Name | centralindia  |
+| --- | --- |
+| Nb Resources | 1  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [csg275ddf79b240x44e7x991](csg275ddf79b240x44e7x991-1101416001.md)  | centralindia  |
+## centralus
+
+
+| Name | centralus  |
+| --- | --- |
+| Nb Resources | 7  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [adkmanageddiskdiag929](adkmanageddiskdiag929--2123057527.md)  | centralus  |
+| [adkmanageddiskdisks421](adkmanageddiskdisks421-42177862.md)  | centralus  |
+| [functionapp2018052312211](functionapp2018052312211--652318646.md)  | centralus  |
+| [sampletestfuncta6bf](sampletestfuncta6bf--648825470.md)  | centralus  |
+| [adkmanageddisk-vnet](adkmanageddisk-vnet-337423216.md)  | centralus  |
+| [adkconcertoubuntu-ip](adkconcertoubuntu-ip-1318484615.md)  | centralus  |
+| [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
+## eastus
+
+
+| Name | eastus  |
+| --- | --- |
+| Nb Resources | 26  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [adkjenkinstestdcacheasr](adkjenkinstestdcacheasr--885733424.md)  | eastus  |
+| [adkjenkinstestdiag235](adkjenkinstestdiag235-508193275.md)  | eastus  |
+| [adkjenkinstestdisks186](adkjenkinstestdisks186-34180381.md)  | eastus  |
+| [azuredockitwith8485](azuredockitwith8485--631483201.md)  | eastus  |
+| [mngstoreage435](mngstoreage435-52950488.md)  | eastus  |
+| [storagearm](storagearm--1722233118.md)  | eastus  |
+| [vmloadbalstore](vmloadbalstore--1629564294.md)  | eastus  |
+| [adkjenkinstest-vnet](adkjenkinstest-vnet-1848450289.md)  | eastus  |
+| [adksiterecovery-vnet](adksiterecovery-vnet--1834270028.md)  | eastus  |
+| [ConcertoDev](ConcertoDev-419358699.md)  | eastus  |
+| [concertosvnet](concertosvnet-1359435699.md)  | eastus  |
+| [Gemini-EUS-Prod-Vnet](Gemini-EUS-Prod-Vnet--1865841465.md)  | eastus  |
+| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
+| [myVNET](myVNET-1387379654.md)  | eastus  |
+| [sp2013RG](sp2013RG-505270689.md)  | eastus  |
+| [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  | eastus  |
+| [spRouteTable](spRouteTable--2085721850.md)  | eastus  |
+| [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
+| [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
+| [armVM](armVM-634205035.md)  | eastus  |
+| [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
+| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
+| [ip01](ip01-1378229347.md)  | eastus  |
+| [myPublicIP](myPublicIP--1622930058.md)  | eastus  |
+| [sp2013](sp2013-574960490.md)  | eastus  |
+| [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  |
+## eastus2
+
+
+| Name | eastus2  |
+| --- | --- |
+| Nb Resources | 9  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [adkauto275ddf79b2404](adkauto275ddf79b2404--2087894945.md)  | eastus2  |
+| [adkg2tautodiag571](adkg2tautodiag571-1521789995.md)  | eastus2  |
+| [adkg2tautodisks437](adkg2tautodisks437--1253082899.md)  | eastus2  |
+| [adkg2tauto-vnet](adkg2tauto-vnet--1133515761.md)  | eastus2  |
+| [thevnetwithroute](thevnetwithroute--92621775.md)  | eastus2  |
+| [reroutetonva](reroutetonva--747290517.md)  | eastus2  |
+| [adkg2tauto-ip](adkg2tauto-ip-1444138533.md)  | eastus2  |
+| [autopublicip](autopublicip-22711943.md)  | eastus2  |
+| [myPip](myPip-1564921843.md)  | eastus2  |
+## northcentralus
+
+
+| Name | northcentralus  |
+| --- | --- |
+| Nb Resources | 2  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [adkjenkinstestdisks1asr](adkjenkinstestdisks1asr-1218776957.md)  | northcentralus  |
+| [adksiterecovery-vnet-asr](adksiterecovery-vnet-asr-651556908.md)  | northcentralus  |
+## westus
+
+
+| Name | westus  |
+| --- | --- |
+| Nb Resources | 2  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [epdmCirque](epdmCirque--1311499795.md)  | westus  |
+| [armVM](armVM--1251798913.md)  | westus  |
     
    
