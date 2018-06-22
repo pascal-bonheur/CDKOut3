@@ -13,18 +13,11 @@ The following Azure data centers are used in your deployment:
 
 | Location | Number of resources |
 | --- | --- |
-| japaneast  | 7  |
-| global  | 1  |
-| westeurope  | 1  |
-| northeurope  | 2  |
-| centralindia  | 1  |
-| westus  | 13  |
-| northcentralus  | 2  |
-| canadaeast  | 16  |
-| eastus  | 180  |
-| southcentralus  | 6  |
-| eastus2  | 50  |
-| centralus  | 23  |
+| canadaeast  | 4  |
+| eastus  | 12  |
+| southcentralus  | 1  |
+| eastus2  | 27  |
+| centralus  | 3  |
   
 The following components are used in your deployment:  
    
@@ -59,7 +52,7 @@ The following components are used in your deployment:
 | Recovery Service Vault  | 0  |
 | Redis  | 0  |
 | Remote Apps  | 0  |
-| Resource Groups  | 86  |
+| Resource Groups  | 7  |
 | Route Tables  | 4  |
 | Schedulers  | 0  |
 | SearchServices  | 0  |
@@ -77,8 +70,8 @@ The following components are used in your deployment:
   
    
 , your Azure consumption is split across the following categories:  
-![Cloudockit](../assets/CE163A8D4F2F4B8A9E85119F256E32D9.png)   
+![Cloudockit](../assets/65AC80D60AC5458FB4E41126E6F58E38.png)   
 , your Azure consumption has the following trend:  
-![Cloudockit](../assets/0273615AF02843209257B243BE52AC78.png)   
+![Cloudockit](../assets/8D84B306DE6A4BAEBCDD6C3500928D41.png)   
 , the components that are the most expensive are the following:  
-![Cloudockit](../assets/224DCD7E74864F0A9811DA8B3B86CDAB.png)
+![Cloudockit](../assets/2EAE26AB09644E04A7A0EDBCBCF5ABED.png)

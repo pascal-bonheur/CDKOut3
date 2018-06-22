@@ -2,13 +2,7 @@
   
 Here are all the components by workloads:  
 
-## Public IP
-
-
-| Name | Public IP  |
-| --- | --- |
-| Nb Resources | 15  |
-
+## Public IP (15 resources)
  
 
 | Name | Location |
@@ -18,8 +12,8 @@ Here are all the components by workloads:
 | [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
 | [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
 | [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
-| [armVM](armVM-634205035.md)  | eastus  |
 | [armVM](armVM--1251798913.md)  | westus  |
+| [armVM](armVM-634205035.md)  | eastus  |
 | [autopublicip](autopublicip-22711943.md)  | eastus2  |
 | [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
 | [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
@@ -28,13 +22,7 @@ Here are all the components by workloads:
 | [myPublicIP](myPublicIP--1622930058.md)  | eastus  |
 | [sp2013](sp2013-574960490.md)  | eastus  |
 | [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  |
-## Resource Group
-
-
-| Name | Resource Group  |
-| --- | --- |
-| Nb Resources | 86  |
-
+## Resource Group (7 resources)
  
 
 | Name | Location |
@@ -46,92 +34,7 @@ Here are all the components by workloads:
 | [adkg2tauto](adkg2tauto-2034839542.md)  | eastus2  |
 | [adkiot](adkiot--156070587.md)  | canadaeast  |
 | [adkjenkinstest](adkjenkinstest-364108532.md)  | eastus  |
-| [adkjenkinstest-asr](adkjenkinstest-asr--336530463.md)  | northcentralus  |
-| [adklaketest](adklaketest-1967021677.md)  | eastus2  |
-| [adkmanageddisk](adkmanageddisk--1773868682.md)  | centralus  |
-| [adknotificationhub](adknotificationhub-1721295845.md)  | eastus2  |
-| [adksiterecovery](adksiterecovery--644407291.md)  | eastus  |
-| [adksiterecovery-asr](adksiterecovery-asr--426998927.md)  | northcentralus  |
-| [adksiterecoveryvault](adksiterecoveryvault--1056608744.md)  | eastus2  |
-| [adkteamv](adkteamv--821341088.md)  | eastus  |
-| [adkvnetwithcustomroute](adkvnetwithcustomroute--356957274.md)  | eastus2  |
-| [appDefinitionGroup](appDefinitionGroup--355054184.md)  | westcentralus  |
-| [azuredockitautomation](azuredockitautomation-792164339.md)  | eastus2  |
-| [azuredockitwithfuctions](azuredockitwithfuctions--7567070.md)  | eastus  |
-| [AzureFunctions-EastUS](AzureFunctions-EastUS--207159424.md)  | eastus  |
-| [CAESubscriptionBase](CAESubscriptionBase-660675448.md)  | canadaeast  |
-| [CDNRG](CDNRG--1333481753.md)  | westus  |
-| [cdsbiztalk](cdsbiztalk--358571913.md)  | eastus  |
-| [cloudservicepascaltest](cloudservicepascaltest--1757334330.md)  | eastus  |
-| [cloud-shell-storage-centralindia](cloud-shell-storage-centralindia--1439215481.md)  | centralindia  |
-| [clusterPascal](clusterPascal--1527475489.md)  | eastus  |
-| [ClusterPASCALRG](ClusterPASCALRG--457908802.md)  | eastus  |
-| [ConcertoDev](ConcertoDev--200931608.md)  | eastus  |
-| [concertossRG](concertossRG--422316878.md)  | eastus  |
-| [CS-EastUS-scheduler](CS-EastUS-scheduler--1836107783.md)  | eastus  |
-| [Default-BizTalk-East-US](Default-BizTalk-East-US--778704641.md)  | eastus  |
-| [Default-MachineLearning-SouthCentralUS](Default-MachineLearning-SouthCentralUS--792969423.md)  | southcentralus  |
-| [Default-Media-EastUS](Default-Media-EastUS-1685127042.md)  | eastus  |
-| [Default-Networking](Default-Networking-1522439558.md)  | eastus  |
-| [Default-NotificationHubs-EastUS](Default-NotificationHubs-EastUS--58051976.md)  | eastus  |
-| [DefaultResourceGroup-EUS](DefaultResourceGroup-EUS--666920881.md)  | eastus  |
-| [Default-ServiceBus-CentralUS](Default-ServiceBus-CentralUS--1942592805.md)  | centralus  |
-| [Default-ServiceBus-EastUS](Default-ServiceBus-EastUS--242001190.md)  | eastus  |
-| [Default-SQL-EastAsia](Default-SQL-EastAsia-1723692632.md)  | eastasia  |
-| [Default-SQL-EastUS](Default-SQL-EastUS-298980568.md)  | eastus  |
-| [Default-SQL-SoutheastAsia](Default-SQL-SoutheastAsia--1863846420.md)  | southeastasia  |
-| [Default-Storage-CentralUS](Default-Storage-CentralUS-2070986088.md)  | centralus  |
-| [Default-Storage-EastUS](Default-Storage-EastUS-548037005.md)  | eastus  |
-| [Default-Storage-EastUS2](Default-Storage-EastUS2-551051661.md)  | eastus2  |
-| [Default-Storage-JapanEast](Default-Storage-JapanEast-2030683739.md)  | japaneast  |
-| [Default-Storage-NorthEurope](Default-Storage-NorthEurope--1303226491.md)  | northeurope  |
-| [Default-Storage-SouthCentralUS](Default-Storage-SouthCentralUS-253648748.md)  | southcentralus  |
-| [Default-Storage-WestEurope](Default-Storage-WestEurope-155135543.md)  | westeurope  |
-| [Default-Storage-WestUS](Default-Storage-WestUS-1785750033.md)  | westus  |
-| [Default-TrafficManager](Default-TrafficManager-1732455116.md)  | southcentralus  |
-| [Default-Web-EastUS](Default-Web-EastUS-1169901699.md)  | eastus  |
-| [Default-Web-EastUS2](Default-Web-EastUS2-1168722051.md)  | southcentralus  |
-| [desjardins](desjardins-217959565.md)  | canadaeast  |
-| [dirlogRG](dirlogRG-1651717685.md)  | eastus  |
-| [DSCautomater](DSCautomater-724756441.md)  | japaneast  |
-| [epdmCirque](epdmCirque--1799433510.md)  | westus  |
-| [Group](Group-954334002.md)  | centralus  |
-| [hdinsightIODNXNMGOHEGOJVGEG76DCAK7NOUH3MHBG6NW5IH4BR2T2DXZJRA-East-US](hdinsightIODNXNMGOHEGOJVGEG76DCAK7NOUH3MHBG6NW5IH4BR2T2DXZJRA-East-US--524100729.md)  | eastus  |
-| [ML](ML-136462294.md)  | southcentralus  |
-| [Mobile-Default-Web-EastUS](Mobile-Default-Web-EastUS-1668142400.md)  | eastus  |
-| [mytestdevlabRG380869](mytestdevlabRG380869--2141481171.md)  | canadaeast  |
-| [New_Resource_Group](New_Resource_Group-1953530287.md)  | eastus  |
-| [pascalADFResourceToDelete](pascalADFResourceToDelete-901939475.md)  | westus  |
-| [pascaltfs](pascaltfs-704178535.md)  | centralus  |
-| [pbonsql2012](pbonsql2012-1189331947.md)  | eastus  |
-| [pjcpoc](pjcpoc-1984637393.md)  | eastus  |
-| [PowerBI](PowerBI-776475946.md)  | eastus2  |
-| [RG-ECA-VNET-Sentinel-QA](RG-ECA-VNET-Sentinel-QA-1699460158.md)  | canadaeast  |
-| [RG-EUS-VNET-Gemini-Prod](RG-EUS-VNET-Gemini-Prod-1074782023.md)  | eastus  |
-| [rgPascalToDeleteTestQuestions](rgPascalToDeleteTestQuestions--115052941.md)  | eastus2  |
-| [samplepjcwebservice](samplepjcwebservice--971718106.md)  | eastus  |
-| [sampletestfunctionapppascal](sampletestfunctionapppascal--247799406.md)  | centralus  |
-| [screenshotwebtestTODELETE](screenshotwebtestTODELETE-275712960.md)  | southcentralus  |
-| [SharePointResourceGroup](SharePointResourceGroup--1854396635.md)  | eastus  |
-| [siziARMResourceGroup](siziARMResourceGroup-1934292015.md)  | eastus  |
-| [sp2013RG](sp2013RG--1326396245.md)  | eastus  |
-| [sp2013VM](sp2013VM-192371385.md)  | eastus  |
-| [sp2016betavm](sp2016betavm-2075653402.md)  | eastus  |
-| [ssrs](ssrs--1414023467.md)  | canadaeast  |
-| [ssrseast](ssrseast--336552280.md)  | eastus2  |
-| [storageGroup](storageGroup--671176938.md)  | eastus  |
-| [testCloudServicePascal1](testCloudServicePascal1--1820925482.md)  | westus  |
-| [TestDocDBRG](TestDocDBRG-1558634520.md)  | eastus  |
-| [testgem](testgem-395597712.md)  | westus  |
-| [UmbracoCMS-Group](UmbracoCMS-Group--2134102720.md)  | eastus  |
-| [vmloadbalacanced](vmloadbalacanced--926519262.md)  | eastus  |
-## Route Table
-
-
-| Name | Route Table  |
-| --- | --- |
-| Nb Resources | 4  |
-
+## Route Table (4 resources)
  
 
 | Name | Location |
@@ -140,13 +43,7 @@ Here are all the components by workloads:
 | [reroutetonva](reroutetonva--747290517.md)  | eastus2  |
 | [routetable](routetable--496314456.md)  | canadaeast  |
 | [spRouteTable](spRouteTable--2085721850.md)  | eastus  |
-## Storage
-
-
-| Name | Storage  |
-| --- | --- |
-| Nb Resources | 31  |
-
+## Storage (31 resources)
  
 
 | Name | Location |
@@ -182,13 +79,7 @@ Here are all the components by workloads:
 | [vmloadbalstore](vmloadbalstore--1629564294.md)  | eastus  |
 | [wk6wtgdkodm2yconcertosdi](wk6wtgdkodm2yconcertosdi--1539242641.md)  | eastus  |
 | [wk6wtgdkodm2yconcertossa](wk6wtgdkodm2yconcertossa--1408398462.md)  | eastus  |
-## SubNet
-
-
-| Name | SubNet  |
-| --- | --- |
-| Nb Resources | 23  |
-
+## SubNet (23 resources)
  
 
 | Name | Location |
@@ -216,13 +107,7 @@ Here are all the components by workloads:
 | [Subnet-1](Subnet-1--606941652.md)  |   |
 | [default](default-100250344.md)  |   |
 | [default](default--286296397.md)  |   |
-## Virtual Machine
-
-
-| Name | Virtual Machine  |
-| --- | --- |
-| Nb Resources | 12  |
-
+## Virtual Machine (12 resources)
  
 
 | Name | Location |
@@ -239,13 +124,7 @@ Here are all the components by workloads:
 | [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  |
 | [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  |
 | [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  |
-## Virtual Network
-
-
-| Name | Virtual Network  |
-| --- | --- |
-| Nb Resources | 15  |
-
+## Virtual Network (15 resources)
  
 
 | Name | Location |
