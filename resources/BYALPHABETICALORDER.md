@@ -79,6 +79,20 @@ Here are all the components by Locations:
 | [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
 | [app](app--22807650.md)  |   |
 | [app](app-2139443330.md)  |   |
+## B
+
+
+| Name | B  |
+| --- | --- |
+| Nb Resources | 3  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [betaServer](betaServer-388134957.md)  | eastus  |
+| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
+| [backend](backend--2124896023.md)  |   |
 ## C
 
 
@@ -171,6 +185,20 @@ Here are all the components by Locations:
 | --- | --- |
 | [epdmCirque](epdmCirque--1799433510.md)  | westus  |
 | [epdmCirque](epdmCirque--1311499795.md)  | westus  |
+## F
+
+
+| Name | F  |
+| --- | --- |
+| Nb Resources | 3  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [fneew4xul6de6concertossa](fneew4xul6de6concertossa--371654605.md)  | eastus  |
+| [function3fa45243994d](function3fa45243994d--50978313.md)  | eastus  |
+| [functionapp2018052312211](functionapp2018052312211--652318646.md)  | centralus  |
 ## G
 
 
@@ -197,6 +225,31 @@ Here are all the components by Locations:
 | Name | Location |
 | --- | --- |
 | [hdinsightIODNXNMGOHEGOJVGEG76DCAK7NOUH3MHBG6NW5IH4BR2T2DXZJRA-East-US](hdinsightIODNXNMGOHEGOJVGEG76DCAK7NOUH3MHBG6NW5IH4BR2T2DXZJRA-East-US--524100729.md)  | eastus  |
+## I
+
+
+| Name | I  |
+| --- | --- |
+| Nb Resources | 2  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
+| [ip01](ip01-1378229347.md)  | eastus  |
+## J
+
+
+| Name | J  |
+| --- | --- |
+| Nb Resources | 1  |
+
+ 
+
+| Name | Location |
+| --- | --- |
+| [jzjab36qtjjlcconcertossa](jzjab36qtjjlcconcertossa-807745300.md)  | eastus  |
 ## M
 
 
@@ -340,32 +393,6 @@ Here are all the components by Locations:
 | [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  |
 | [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  |
 | [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  |
-## F
-
-
-| Name | F  |
-| --- | --- |
-| Nb Resources | 3  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [fneew4xul6de6concertossa](fneew4xul6de6concertossa--371654605.md)  | eastus  |
-| [function3fa45243994d](function3fa45243994d--50978313.md)  | eastus  |
-| [functionapp2018052312211](functionapp2018052312211--652318646.md)  | centralus  |
-## J
-
-
-| Name | J  |
-| --- | --- |
-| Nb Resources | 1  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [jzjab36qtjjlcconcertossa](jzjab36qtjjlcconcertossa-807745300.md)  | eastus  |
 ## W
 
 
@@ -381,32 +408,5 @@ Here are all the components by Locations:
 | [wk6wtgdkodm2yconcertossa](wk6wtgdkodm2yconcertossa--1408398462.md)  | eastus  |
 | [web](web-1594882953.md)  |   |
 | [web](web--281115790.md)  |   |
-## B
-
-
-| Name | B  |
-| --- | --- |
-| Nb Resources | 3  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [betaServer](betaServer-388134957.md)  | eastus  |
-| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
-| [backend](backend--2124896023.md)  |   |
-## I
-
-
-| Name | I  |
-| --- | --- |
-| Nb Resources | 2  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
-| [ip01](ip01-1378229347.md)  | eastus  |
     
    
