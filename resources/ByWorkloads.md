@@ -9,9 +9,7 @@ Here are all the components by workloads:
 | --- | --- |
 | Nb Resources | 86  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -101,16 +99,14 @@ Here are all the components by workloads:
 | [testgem](testgem-395597712.md)  | westus  |   |
 | [UmbracoCMS-Group](UmbracoCMS-Group--2134102720.md)  | eastus  |   |
 | [vmloadbalacanced](vmloadbalacanced--926519262.md)  | eastus  |   |
-  ## Storage
+## Storage
 
 
 | Name | Storage  |
 | --- | --- |
 | Nb Resources | 31  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -145,16 +141,14 @@ Here are all the components by workloads:
 | [vmloadbalstore](vmloadbalstore--1629564294.md)  | eastus  | Microsoft.Storage/storageAccounts  |
 | [wk6wtgdkodm2yconcertosdi](wk6wtgdkodm2yconcertosdi--1539242641.md)  | eastus  | Microsoft.Storage/storageAccounts  |
 | [wk6wtgdkodm2yconcertossa](wk6wtgdkodm2yconcertossa--1408398462.md)  | eastus  | Microsoft.Storage/storageAccounts  |
-  ## Virtual Machine
+## Virtual Machine
 
 
 | Name | Virtual Machine  |
 | --- | --- |
 | Nb Resources | 12  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -170,16 +164,14 @@ Here are all the components by workloads:
 | [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  | Microsoft.Compute/virtualMachines  |
 | [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  | Microsoft.Compute/virtualMachines  |
 | [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  | Microsoft.Compute/virtualMachines  |
-  ## Virtual Network
+## Virtual Network
 
 
 | Name | Virtual Network  |
 | --- | --- |
 | Nb Resources | 15  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -198,16 +190,14 @@ Here are all the components by workloads:
 | [myVNET](myVNET-1387379654.md)  | eastus  | Microsoft.Network/virtualNetworks  |
 | [sp2013RG](sp2013RG-505270689.md)  | eastus  | Microsoft.Network/virtualNetworks  |
 | [thevnetwithroute](thevnetwithroute--92621775.md)  | eastus2  | Microsoft.Network/virtualNetworks  |
-  ## Route Table
+## Route Table
 
 
 | Name | Route Table  |
 | --- | --- |
 | Nb Resources | 4  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -215,16 +205,14 @@ Here are all the components by workloads:
 | [reroutetonva](reroutetonva--747290517.md)  | eastus2  | Microsoft.Network/routeTables  |
 | [routetable](routetable--496314456.md)  | canadaeast  | Microsoft.Network/routeTables  |
 | [spRouteTable](spRouteTable--2085721850.md)  | eastus  | Microsoft.Network/routeTables  |
-  ## Public IP
+## Public IP
 
 
 | Name | Public IP  |
 | --- | --- |
 | Nb Resources | 15  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
@@ -243,16 +231,14 @@ Here are all the components by workloads:
 | [myPublicIP](myPublicIP--1622930058.md)  | eastus  | Microsoft.Network/publicIPAddresses  |
 | [sp2013](sp2013-574960490.md)  | eastus  | Microsoft.Network/publicIPAddresses  |
 | [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  | Microsoft.Network/publicIPAddresses  |
-  ## SubNet
+## SubNet
 
 
 | Name | SubNet  |
 | --- | --- |
 | Nb Resources | 23  |
 
-
-## Resources
-
+ 
 
 | Name | Location | Type |
 | --- | --- | --- |
