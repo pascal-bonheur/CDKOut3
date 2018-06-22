@@ -1,6 +1,6 @@
 # By Alphabetical Order
   
-Here are all the components by Locations:  
+Here are all the components by Alphabetical order:  
 
 ## 0
 
@@ -73,8 +73,8 @@ Here are all the components by Locations:
 | [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
 | [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
 | [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
-| [armVM](armVM-634205035.md)  | eastus  |
 | [armVM](armVM--1251798913.md)  | westus  |
+| [armVM](armVM-634205035.md)  | eastus  |
 | [autopublicip](autopublicip-22711943.md)  | eastus2  |
 | [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
 | [app](app--22807650.md)  |   |
@@ -409,4 +409,3 @@ Here are all the components by Locations:
 | [web](web-1594882953.md)  |   |
 | [web](web--281115790.md)  |   |
     
-   

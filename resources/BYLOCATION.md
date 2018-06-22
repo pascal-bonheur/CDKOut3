@@ -1,39 +1,13 @@
-# By Workloads
+# By Location
   
-Here are all the components by workloads:  
+Here are all the components by Locations:  
 
-## Public IP
+##
 
 
-| Name | Public IP  |
+| Name |   |
 | --- | --- |
-| Nb Resources | 15  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [adkconcertoubuntu-ip](adkconcertoubuntu-ip-1318484615.md)  | centralus  |
-| [adkg2tauto-ip](adkg2tauto-ip-1444138533.md)  | eastus2  |
-| [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
-| [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
-| [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
-| [armVM](armVM--1251798913.md)  | westus  |
-| [armVM](armVM-634205035.md)  | eastus  |
-| [autopublicip](autopublicip-22711943.md)  | eastus2  |
-| [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
-| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
-| [ip01](ip01-1378229347.md)  | eastus  |
-| [myPip](myPip-1564921843.md)  | eastus2  |
-| [myPublicIP](myPublicIP--1622930058.md)  | eastus  |
-| [sp2013](sp2013-574960490.md)  | eastus  |
-| [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  |
-## Resource Group
-
-
-| Name | Resource Group  |
-| --- | --- |
-| Nb Resources | 86  |
+| Nb Resources | 186  |
 
  
 
@@ -125,32 +99,6 @@ Here are all the components by workloads:
 | [testgem](testgem-395597712.md)  | westus  |
 | [UmbracoCMS-Group](UmbracoCMS-Group--2134102720.md)  | eastus  |
 | [vmloadbalacanced](vmloadbalacanced--926519262.md)  | eastus  |
-## Route Table
-
-
-| Name | Route Table  |
-| --- | --- |
-| Nb Resources | 4  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  | eastus  |
-| [reroutetonva](reroutetonva--747290517.md)  | eastus2  |
-| [routetable](routetable--496314456.md)  | canadaeast  |
-| [spRouteTable](spRouteTable--2085721850.md)  | eastus  |
-## Storage
-
-
-| Name | Storage  |
-| --- | --- |
-| Nb Resources | 31  |
-
- 
-
-| Name | Location |
-| --- | --- |
 | [adkauto275ddf79b2404](adkauto275ddf79b2404--2087894945.md)  | eastus2  |
 | [adkg2tautodiag571](adkg2tautodiag571-1521789995.md)  | eastus2  |
 | [adkg2tautodisks437](adkg2tautodisks437--1253082899.md)  | eastus2  |
@@ -182,17 +130,52 @@ Here are all the components by workloads:
 | [vmloadbalstore](vmloadbalstore--1629564294.md)  | eastus  |
 | [wk6wtgdkodm2yconcertosdi](wk6wtgdkodm2yconcertosdi--1539242641.md)  | eastus  |
 | [wk6wtgdkodm2yconcertossa](wk6wtgdkodm2yconcertossa--1408398462.md)  | eastus  |
-## SubNet
-
-
-| Name | SubNet  |
-| --- | --- |
-| Nb Resources | 23  |
-
- 
-
-| Name | Location |
-| --- | --- |
+| [adkconcertoubuntu](adkconcertoubuntu-909997291.md)  | centralus  |
+| [adkg2tauto](adkg2tauto-1173862510.md)  | eastus2  |
+| [adkjenkins](adkjenkins-1229477695.md)  | eastus  |
+| [adkmanagedvm](adkmanagedvm--460359187.md)  | centralus  |
+| [alphaServer](alphaServer-963219868.md)  | eastus  |
+| [armVM](armVM--1459567991.md)  | eastus  |
+| [aventis](aventis-860577790.md)  | eastus  |
+| [betaServer](betaServer-388134957.md)  | eastus  |
+| [tositerecover](tositerecover-1578880589.md)  | eastus  |
+| [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  |
+| [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  |
+| [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  |
+| [adkg2tauto-vnet](adkg2tauto-vnet--1133515761.md)  | eastus2  |
+| [adkjenkinstest-vnet](adkjenkinstest-vnet-1848450289.md)  | eastus  |
+| [adkmanageddisk-vnet](adkmanageddisk-vnet-337423216.md)  | centralus  |
+| [adksiterecovery-vnet](adksiterecovery-vnet--1834270028.md)  | eastus  |
+| [adksiterecovery-vnet-asr](adksiterecovery-vnet-asr-651556908.md)  | northcentralus  |
+| [CAEVNetTemplate](CAEVNetTemplate--836473530.md)  | canadaeast  |
+| [ConcertoDev](ConcertoDev-419358699.md)  | eastus  |
+| [concertosvnet](concertosvnet-1359435699.md)  | eastus  |
+| [Dtlmytestdevlab](Dtlmytestdevlab-1261641920.md)  | canadaeast  |
+| [epdmCirque](epdmCirque--1311499795.md)  | westus  |
+| [Gemini-EUS-Prod-Vnet](Gemini-EUS-Prod-Vnet--1865841465.md)  | eastus  |
+| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
+| [myVNET](myVNET-1387379654.md)  | eastus  |
+| [sp2013RG](sp2013RG-505270689.md)  | eastus  |
+| [thevnetwithroute](thevnetwithroute--92621775.md)  | eastus2  |
+| [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  | eastus  |
+| [reroutetonva](reroutetonva--747290517.md)  | eastus2  |
+| [routetable](routetable--496314456.md)  | canadaeast  |
+| [spRouteTable](spRouteTable--2085721850.md)  | eastus  |
+| [adkconcertoubuntu-ip](adkconcertoubuntu-ip-1318484615.md)  | centralus  |
+| [adkg2tauto-ip](adkg2tauto-ip-1444138533.md)  | eastus2  |
+| [adkjenkins-ip](adkjenkins-ip--430937782.md)  | eastus  |
+| [adkmanagedvm-ip](adkmanagedvm-ip--528406627.md)  | centralus  |
+| [alphaServer-ip](alphaServer-ip--1703524931.md)  | eastus  |
+| [armVM](armVM--1251798913.md)  | westus  |
+| [armVM](armVM-634205035.md)  | eastus  |
+| [autopublicip](autopublicip-22711943.md)  | eastus2  |
+| [aventis-ip](aventis-ip-2071046251.md)  | eastus  |
+| [betaServer-ip](betaServer-ip--206845830.md)  | eastus  |
+| [ip01](ip01-1378229347.md)  | eastus  |
+| [myPip](myPip-1564921843.md)  | eastus2  |
+| [myPublicIP](myPublicIP--1622930058.md)  | eastus  |
+| [sp2013](sp2013-574960490.md)  | eastus  |
+| [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  |
 | [default](default-1583791024.md)  |   |
 | [default](default--39953027.md)  |   |
 | [default](default-1130786707.md)  |   |
@@ -216,53 +199,5 @@ Here are all the components by workloads:
 | [Subnet-1](Subnet-1--606941652.md)  |   |
 | [default](default-100250344.md)  |   |
 | [default](default--286296397.md)  |   |
-## Virtual Machine
-
-
-| Name | Virtual Machine  |
-| --- | --- |
-| Nb Resources | 12  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [adkconcertoubuntu](adkconcertoubuntu-909997291.md)  | centralus  |
-| [adkg2tauto](adkg2tauto-1173862510.md)  | eastus2  |
-| [adkjenkins](adkjenkins-1229477695.md)  | eastus  |
-| [adkmanagedvm](adkmanagedvm--460359187.md)  | centralus  |
-| [alphaServer](alphaServer-963219868.md)  | eastus  |
-| [armVM](armVM--1459567991.md)  | eastus  |
-| [aventis](aventis-860577790.md)  | eastus  |
-| [betaServer](betaServer-388134957.md)  | eastus  |
-| [tositerecover](tositerecover-1578880589.md)  | eastus  |
-| [vmloadbalstore0](vmloadbalstore0-250474081.md)  | eastus  |
-| [vmloadbalstore1](vmloadbalstore1-1816558022.md)  | eastus  |
-| [vmrecreatedfromg2tauto](vmrecreatedfromg2tauto-1679473099.md)  | eastus2  |
-## Virtual Network
-
-
-| Name | Virtual Network  |
-| --- | --- |
-| Nb Resources | 15  |
-
- 
-
-| Name | Location |
-| --- | --- |
-| [adkg2tauto-vnet](adkg2tauto-vnet--1133515761.md)  | eastus2  |
-| [adkjenkinstest-vnet](adkjenkinstest-vnet-1848450289.md)  | eastus  |
-| [adkmanageddisk-vnet](adkmanageddisk-vnet-337423216.md)  | centralus  |
-| [adksiterecovery-vnet](adksiterecovery-vnet--1834270028.md)  | eastus  |
-| [adksiterecovery-vnet-asr](adksiterecovery-vnet-asr-651556908.md)  | northcentralus  |
-| [CAEVNetTemplate](CAEVNetTemplate--836473530.md)  | canadaeast  |
-| [ConcertoDev](ConcertoDev-419358699.md)  | eastus  |
-| [concertosvnet](concertosvnet-1359435699.md)  | eastus  |
-| [Dtlmytestdevlab](Dtlmytestdevlab-1261641920.md)  | canadaeast  |
-| [epdmCirque](epdmCirque--1311499795.md)  | westus  |
-| [Gemini-EUS-Prod-Vnet](Gemini-EUS-Prod-Vnet--1865841465.md)  | eastus  |
-| [IntranetVNET](IntranetVNET--768312090.md)  | eastus  |
-| [myVNET](myVNET-1387379654.md)  | eastus  |
-| [sp2013RG](sp2013RG-505270689.md)  | eastus  |
-| [thevnetwithroute](thevnetwithroute--92621775.md)  | eastus2  |
     
+   

@@ -2,7 +2,7 @@
   
 The following section contains billing details .  
    
-![Cloudockit](../assets/758A355955554D45A616731C4B4D20E0.png)   
+![Cloudockit](../assets/28F2173FF353466FB0322A3D7180C457.png)   
    
   
    
